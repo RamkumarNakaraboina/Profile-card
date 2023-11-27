@@ -4,7 +4,7 @@ A simple and stylish profile card created with HTML and CSS. This project showca
 
 ## Preview
 
-![Profile Card Preview](images/profilecard.png)
+![Profile Card Preview](images/Preview.png)
 
 ## Table of Contents
 
